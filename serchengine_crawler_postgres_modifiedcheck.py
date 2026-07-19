@@ -29,7 +29,7 @@ logging.basicConfig(
 # ----------------------------------------
 def getURLs(query):
     url = "https://api.search.brave.com/res/v1/web/search"
-    BRAVE_API_KEY = "BSAQ2hZjho9973o0EaLHECZ1Q_5Xfu_"  
+    BRAVE_API_KEY = ""  
      
     headers = {
         "Accept": "application/json",
