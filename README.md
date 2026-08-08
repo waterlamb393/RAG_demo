@@ -27,3 +27,6 @@
  
 ＜rag_chunkingLLM.ipynb＞
 　チャンキング前処理として、LLMを利用する技術検証用のデモ。
+
+＜semantic_chunk.ipynb＞
+　セマンティックチャンキングの検証用デモ
