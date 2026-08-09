@@ -30,3 +30,9 @@
 
 ＜semantic_chunk.ipynb＞
 　セマンティックチャンキングの検証用デモ
+
+＜itemBased_chunking.ipynb＞
+　項目ベースのチャンキング検証用デモ
+
+＜item_and_semantic_chunking＞
+　項目ベース＆セマンティックのハイブリッドチャンキング検証用デモ
